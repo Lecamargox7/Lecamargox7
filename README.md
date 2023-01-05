@@ -1,7 +1,8 @@
 ### Olá! Eu sou o Leandro Camargo 👋
 
+- Gosto de tecnologia, futebol e games!
 - 🔭 Hoje trabalho como Analista de Suporte
-- 🌱 Estou estudando Analise e Desenvolvimento de Sistemas na Faculdade e um curso de DBA 
+- 🌱 Estou cursando Analise e Desenvolvimento de Sistemas
 
 ### Minhas Redes Sociais!
 
@@ -25,7 +26,6 @@
   <a href="https://www.youtube.com/channel/UCC8GZogA9LkBWPe2F-gdIgw">
     <img  src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"> 
   </a>
-  
 </p>
 
 <div align="center">
