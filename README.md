@@ -4,7 +4,7 @@
 - 🌱 Estou estudando Analise e Desenvolvimento de Sistemas na Faculdade e um curso de DBA 
 
 <p align="center">
-  <a href="https://discord.gg/zWWdRVFNhC">
+  <a href="https://discord.gg/n8gRykx6">
   <img  src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
   </a>
   
@@ -20,7 +20,7 @@
     <img  src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"> 
   </a>
   
-  <a href="https://www.youtube.com/channel/UC3qp3wN75rI8TW7o5eGilYQ">
+  <a href="https://www.youtube.com/channel/UCC8GZogA9LkBWPe2F-gdIgw">
     <img  src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"> 
   </a>
   
