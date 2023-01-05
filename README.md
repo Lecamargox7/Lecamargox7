@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Leandro Camargo
 
--  Gosto de 💻 *tecnologia*, ⚽ *futebol* e 🎮 *games*!
+- Gosto de 💻 *tecnologia*, ⚽ *futebol* e 🎮 *games*!
 - Hoje trabalho como ***Analista de Suporte***
 - Estou cursando ***Analise e Desenvolvimento de Sistemas***
 
