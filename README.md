@@ -3,9 +3,11 @@
 - 🔭 Hoje trabalho como Analista de Suporte
 - 🌱 Estou estudando Analise e Desenvolvimento de Sistemas na Faculdade e um curso de DBA 
 
+### Minhas Redes Sociais!
+
 <p align="center">
-  <a href="https://discord.gg/n8gRykx6">
-  <img  src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
+  <a href="https://www.instagram.com/lecamargox/">
+  <img  src="https://img.shields.io/badge/instagram-%237289DA.svg?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   
   <a href="https://www.linkedin.com/in/lecamargo/">
