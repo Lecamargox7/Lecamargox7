@@ -1,9 +1,9 @@
-### Olá! Eu sou o Leandro Camargo 👋
+## Olá! Eu sou o Leandro Camargo 👋
 
 - Gosto de *tecnologia*, *futebol* e *games*!
 - 🔭 Hoje trabalho como ***Analista de Suporte***
 - 🌱 Estou cursando ***Analise e Desenvolvimento de Sistemas***
-
+---
 <div align="center">
   <a href="https://github.com/Lecamargox7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lecamargox7&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
@@ -11,7 +11,7 @@
 </div>
   
   <br>
-  
+---  
 <p align="center">
   <a href="https://www.instagram.com/lecamargox/">
   <img  src="https://img.shields.io/badge/instagram-%237289DA.svg?style=for-the-badge&logo=instagram&logoColor=white">
@@ -35,7 +35,7 @@
 </p>
 
   <br>
-  
+  ---
 ![Snake animation](https://github.com/lecamargox7/lecamargox7/blob/output/github-contribution-grid-snake.svg)
   
   <br>
