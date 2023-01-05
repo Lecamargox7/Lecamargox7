@@ -9,7 +9,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lecamargox7&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lecamargox7&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
-
+  
+  <br>
+  
 <p align="center">
   <a href="https://www.instagram.com/lecamargox/">
   <img  src="https://img.shields.io/badge/instagram-%237289DA.svg?style=for-the-badge&logo=instagram&logoColor=white">
@@ -32,4 +34,8 @@
   </a>
 </p>
 
+  <br>
+  
 ![Snake animation](https://github.com/lecamargox7/lecamargox7/blob/output/github-contribution-grid-snake.svg)
+  
+  <br>
