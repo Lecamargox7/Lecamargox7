@@ -34,4 +34,4 @@
   </a>
 </p>
 
-[Snake animation](https://github.com/lecamargox7/lecamargox7/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lecamargox7/lecamargox7/blob/output/github-contribution-grid-snake.svg)
